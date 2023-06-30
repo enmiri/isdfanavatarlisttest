@@ -1,42 +1,42 @@
 {
-	"바니돌_세구1": {
+	"바니돌_아이네": {
+		"AvatarId": "avtr_b63fe843-24df-4f3d-990a-c3ca6ee297bb",
+		"AvatarIcon": "DummyIcon2",
+	},
+	"바니돌_징버거": {
+		"AvatarId": "avtr_52a99fcf-025e-46b0-b6cf-dcab35ac2296",
+		"AvatarIcon": "DummyIcon2",
+	},
+	"바니돌_릴파": {
+		"AvatarId": "avtr_169e6aab-e28d-4a14-95e2-32f76da3b84f",
+		"AvatarIcon": "DummyIcon2",
+	},
+	"바니돌_주르르": {
+		"AvatarId": "avtr_84aaa77f-1623-45fa-a96d-ccf7142ffcf5",
+		"AvatarIcon": "DummyIcon2",
+	},
+	"바니돌_고세구": {
 		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
 		"AvatarIcon": "DummyIcon2",
 	},
-	"바니돌_세구2": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
+	"바니돌_비챤": {
+		"AvatarId": "avtr_95a6c3aa-5a15-4853-a4a8-255e8e5093bc",
 		"AvatarIcon": "DummyIcon2",
 	},
-	"바니돌_세구3": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
+	"빵떡굳": {
+		"AvatarId": "avtr_f8143210-d84a-4136-a98f-8f261cb38155",
 		"AvatarIcon": "DummyIcon2",
 	},
-	"바니돌_세구4": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
+	"빵떡폭도": {
+		"AvatarId": "avtr_3bdb38fa-d9a9-44d8-b7c6-82666af69d84",
 		"AvatarIcon": "DummyIcon2",
 	},
-	"바니돌_세구5": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
+	"빵떡유치원": {
+		"AvatarId": "avtr_1fc0ed09-d4a2-42db-b72e-ff687baa25a2",
 		"AvatarIcon": "DummyIcon2",
 	},
-	"바니돌_세구6": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
-		"AvatarIcon": "DummyIcon2",
-	},
-	"바니돌_세구7": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
-		"AvatarIcon": "DummyIcon2",
-	},
-	"바니돌_세구8": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
-		"AvatarIcon": "DummyIcon2",
-	},
-	"바니돌_세구9": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
-		"AvatarIcon": "DummyIcon2",
-	},
-	"바니돌_세구10": {
-		"AvatarId": "avtr_f65b6b70-8630-4467-864a-aba8a8459b34",
+	"오뱅계르크": {
+		"AvatarId": "avtr_855ec692-9ed1-479c-9a33-41e21c338ffa",
 		"AvatarIcon": "DummyIcon2",
 	},
 }
