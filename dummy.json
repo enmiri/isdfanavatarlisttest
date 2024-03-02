@@ -28,12 +28,18 @@
 		"빵떡햄버거": "avtr_0fd7f08a-f0e7-49c8-8698-0493f766cfa5"
 	},
 	"바니돌": {
-	    "아이네": "avtr_1b5d6f10-98e3-4c7c-a9df-0a06dc0d25d6",
-	    "징버거": "avtr_2d2f3967-d525-4dff-b66a-0c2737b64204",
-	    "릴파": "avtr_7316adf8-e36c-45d4-b222-8d0fcd9d31a3",
-	    "주르르": "avtr_be6503bc-e303-4e0c-91ce-499076df98ac",
-	    "고세구": "avtr_1be1eb62-5a69-43dd-b6a0-f7679fc42df1",
-	    "비챤": "avtr_08da9ecf-8418-450a-a55e-28fba3ddf06b"
+	    	"아이네": "avtr_1b5d6f10-98e3-4c7c-a9df-0a06dc0d25d6",
+	    	"징버거": "avtr_2d2f3967-d525-4dff-b66a-0c2737b64204",
+	    	"릴파": "avtr_7316adf8-e36c-45d4-b222-8d0fcd9d31a3",
+	    	"주르르": "avtr_be6503bc-e303-4e0c-91ce-499076df98ac",
+	    	"고세구": "avtr_1be1eb62-5a69-43dd-b6a0-f7679fc42df1",
+		"비챤": "avtr_08da9ecf-8418-450a-a55e-28fba3ddf06b",
+		"키딩아이네": "avtr_808f784a-552d-48da-9b6d-7198c37561fc",
+	    	"키딩징버거": "avtr_6e8b845a-529a-474d-9010-1bcfe16657d6",
+	    	"키딩릴파": "avtr_46deeccc-804d-4ea8-9e53-e45c72267b47",
+	    	"키딩주르르": "avtr_6c74b343-4244-4805-8be8-936ae5c006cb",
+	    	"키딩고세구": "avtr_8cd15bb3-54d6-4087-94e3-97e65cb6a7eb",
+	    	"키딩비챤": "avtr_74500147-a28a-4c37-a4b5-f93040adebaf"
     	},
 	"이파리": {
 		"뉴똥강1": "avtr_37d71359-6082-4d39-a14c-f7a995b76edb",
